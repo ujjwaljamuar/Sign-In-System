@@ -1,0 +1,10 @@
+To open this file
+
+1. Go to CMD
+2. enter cd E:\Vscode\My Projects\Sign in System
+3. enter E:
+4. enter cls
+5. enter python main.py
+
+email    -> email@gmail.com 
+password -> abcdef
